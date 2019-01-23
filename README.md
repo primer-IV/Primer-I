@@ -1,6 +1,5 @@
-=====
 
-#PRIMER: 
+# PRIMER: 
 
 An iTerm2 interface for interactive terminal presentations.
 
@@ -8,10 +7,7 @@ Based on George Nachman's iTerm2 application at <a href="https://iterm2.com">iTe
 
 Original source: https://github.com/gnachman/iTerm2
 
-
-====
-
-#NOTES
+## NOTES
 
 See sources/iTermApplicationDelegate.m for customised launch sequence.
 
